@@ -1,0 +1,11 @@
+{
+    "name": "Casting Coin",
+    "symbol": "CCOIN",
+    "type": "BEP20",
+    "decimals": 9,
+    "description": "Casting Coin is a reflectionary token poised to change the financial future of models.",
+    "website": "https://castingcoin.io/",
+    "explorer": "https://bscscan.com/token/0x531b104327908dbd77fb61c596b838551d270598",
+    "status": "active",
+    "id": "0x531b104327908dbd77fb61c596b838551d270598"
+}
